@@ -19,7 +19,7 @@ public class Cricketer {
 	}
 
 	public void bowling() {
-		System.out.println("Cricketer::"+name+" is bowling");
+		System.out.println("Cricketer::"+name+" is bowling ");
 	}
 
 	public void wicketKeeping() {
