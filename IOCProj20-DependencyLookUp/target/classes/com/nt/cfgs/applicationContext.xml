@@ -7,7 +7,7 @@ http://www.springframework.org/schema/beans/spring-beans.xsd">
    <bean id="bat"  class="com.nt.beans.Bat"/>
    
    <bean id="cktr"  class="com.nt.beans.Cricketer">
-      <property name="name"  value="ms dhoni"/>
+      <property name="name"  value="virat kohli"/>
    </bean>
   
 </beans>
